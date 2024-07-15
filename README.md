@@ -6,12 +6,19 @@ Sou programador Fullstack cursando.
 - ⚡ Interessado em sempre aprender sobre as novas tecnologias.
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<div>
+<a href="https://github.com/FelipeMYung">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMYung&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeMYung&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Felipe-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Felipe-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img align="center" alt="Felipe-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
   <img align="center" alt="Felipe-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+          
 </div>
 
 ##
